@@ -1,4 +1,4 @@
-# wages_vs_food_prices
+# SQL Project Wages Vs Food Prices
 
 abbreviation:
 
