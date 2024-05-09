@@ -1,6 +1,14 @@
-# SQL Project Wages Vs Food Prices (in process)
+# SQL Project Wages Vs Food Prices 
 
-abbreviation:
+Tasks:
+
+>Examining how wages change in different industries over time.
+>Looking at how much milk and bread can be bought in the beginning and end of certain periods, using prices and wages, to see how buying power changes.
+>Finding out which food type has the smallest price increase, showing the lowest yearly change in percentage.
+>Checking if there are any years where food prices increase much more than wages, by over 10%.
+>Studying if changes in GDP affect wages and food prices. Specifically, seeing if a big GDP increase in one year means food prices or wages will likely go up in the same or following year.
+
+Abbreviation:
 
 - A	Zemědělství, lesnictví, rybářství
 - B	Těžba a dobývání
@@ -22,6 +30,10 @@ abbreviation:
 - R	Kulturní, zábavní a rekreační činnosti
 - S	Ostatní činnosti
 
+Explanations:
+
+So, my first step was to understand which data from various sources I will need and created two tables. The first table "table_Sofiia_Veleska_SQL_primary_final" corresponds to the first four questions, while the second table, "table_Sofiia_Veleska_SQL_secondary_final", pertains to the fifth question.
+
 1_SQL Are wages rising in all industries over the years, or falling in some?
 
 Wages are different in each industry. Some industries have big increases, while others don't change much. Industry K has the highest increase at 9.68% per year, showing big growth. Next is industry B, which goes up by 3.22%, a good sign. But then, the increases slow down. Industries F, P, and R grow less at 2.10%, 1.71%, and 1.45% respectively. This slowdown continues in industries N, I, J, and G, with each growing even less. Towards the bottom, industries M, E, L, O, and D have very small increases, and industry H doesn't change at all. Overall, while wages are going up in most industries, some are doing much better than others. This shows that the economy and job market are different in each industry.
@@ -36,11 +48,13 @@ The category with code 117101 - "Rajská jablka červená kulatá" has a decreas
 
 4_SQL Has there been a year in which the year-on-year increase in food prices was significantly higher than wage growth (greater than 10%)?
 
-The table presents data for each year between 2007 and 2018, showing the average prices of food and salaries for both the current and previous years. The "percentage_p" column reveals the percentage change in food prices, while the "percentage_increase_s" column shows the percentage change in salaries. The "differences" column indicates the gap between the percentage changes in food prices and wages.
+The table presents data for each year between 2007 and 2018, showing the average prices of food and salaries for both the current and previous years. The "percentage_p" column reveals the percentage change in food prices, and the "percentage_increase_s" column shows the percentage change in salaries. The "differences" column indicates the gap between the percentage changes in food prices and wages.
 By examining the differences column, we can spot the years where the increase in food prices surpassed 10% compared to wage growth. For example, in 2009, the difference is 9.84%, suggesting that food prices rose significantly more than salaries during that period. Likewise, in 2018, the difference is 5.03%, indicating another year where food prices outpaced wage growth, albeit not exceeding 10%.
 In summary, based on the differences column, it seems that there were years when the rise in food prices exceeded wage growth, although not necessarily by more than 10% in every instance.
 
-5_SQL 
+5_SQL Does the level of GDP affect changes in wages and food prices? Or, if the GDP increases more significantly in one year, will this be reflected in food prices or wages in the same or the following year by a more significant increase?
+
+The data shows GDP growth from 2008 to 2018, indicating economic expansion over the period. However, the link between GDP growth and changes in wages and food prices is not explicitly evident. While GDP growth can theoretically lead to higher wages and affect food prices, the actual impact depends on various factors beyond GDP alone, such as labor market dynamics and supply chain efficiencies. Therefore, while GDP growth is a significant economic indicator, further analysis is needed to understand its specific implications for wages and food prices.
 
 
 
