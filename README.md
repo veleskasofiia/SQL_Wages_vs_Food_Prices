@@ -40,7 +40,7 @@ Wages are different in each industry. Some industries have big increases, while 
 
 2_SQL How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
 
-Back in 2006, when people earned about 21165.18 units, they could buy around 20.63 liters of milk for 1026.16 units per liter. But by 2018, with wages at 114201 units, they could afford roughly 5319.34 kilograms of bread at 21.47 units per kilogram. This shows a big difference in what people could buy with their wages between 2006 and 2018. In 2018, they could get a lot more bread compared to the amount of milk they could buy in 2006 with the same amount of money.
+In year 2006, people could buy around 20.63 liters of milk for 1026.16 units per liter. But by 2018, people could afford roughly 5319.34 kilograms of bread at 21.47 units per kilogram. This shows a big difference in what people could buy with their wages between 2006 and 2018. In 2018, they could get a lot more bread compared to the amount of milk they could buy in 2006 with the same amount of money.
 
 3_SQL Which food category is increasing in price the slowest (has the lowest percentage year-on-year increase)?
 
