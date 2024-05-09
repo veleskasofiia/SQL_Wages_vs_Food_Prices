@@ -2,11 +2,11 @@
 
 Tasks:
 
->Examining how wages change in different industries over time.
->Looking at how much milk and bread can be bought in the beginning and end of certain periods, using prices and wages, to see how buying power changes.
->Finding out which food type has the smallest price increase, showing the lowest yearly change in percentage.
->Checking if there are any years where food prices increase much more than wages, by over 10%.
->Studying if changes in GDP affect wages and food prices. Specifically, seeing if a big GDP increase in one year means food prices or wages will likely go up in the same or following year.
+->Examining how wages change in different industries over time.
+->Looking at how much milk and bread can be bought in the beginning and end of certain periods, using prices and wages, to see how buying power changes.
+->Finding out which food type has the smallest price increase, showing the lowest yearly change in percentage.
+->Checking if there are any years where food prices increase much more than wages, by over 10%.
+->Studying if changes in GDP affect wages and food prices. Specifically, seeing if a big GDP increase in one year means food prices or wages will likely go up in the same or following year.
 
 Abbreviation:
 
