@@ -42,7 +42,7 @@ https://github.com/veleskasofiia/sql_wages_vs_food_prices/blob/main/table_Sofiia
 
 https://github.com/veleskasofiia/sql_wages_vs_food_prices/blob/main/1_SQL_Industry_Wage_Trends
 
-Wages are different in each industry. Some industries have big increases, while others don't change much. Industry K has the highest increase at 9.68% per year, showing big growth. Next is industry B, which goes up by 3.22%, a good sign. But then, the increases slow down. Industries F, P, and R grow less at 2.10%, 1.71%, and 1.45% respectively. This slowdown continues in industries N, I, J, and G, with each growing even less. Towards the bottom, industries M, E, L, O, and D have very small increases, and industry H doesn't change at all. Overall, while wages are going up in most industries, some are doing much better than others. This shows that the economy and job market are different in each industry.
+In some industries have big increases, while others don't change much. Industry K has the highest increase at 9.68% per year, showing big growth. Next is industry B, which goes up by 3.22%, a good sign. But then, the increases slow down. Industries F, P, and R grow less at 2.10%, 1.71%, and 1.45% respectively. This slowdown continues in industries N, I, J, and G, with each growing even less. Towards the bottom, industries M, E, L, O, and D have very small increases, and industry H doesn't change at all. Overall, while wages are going up in most industries, some are doing much better than others. This shows that the economy and job market are different in each industry.
 
 - 2_SQL How many liters of milk and kilograms of bread can be bought in the first and last comparable periods in the available price and wage data?
 
