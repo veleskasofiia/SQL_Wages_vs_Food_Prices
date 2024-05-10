@@ -51,5 +51,5 @@ JOIN t_sofiia_veleska_sql_primary_final b
     ON a.year_from - 1 = b.payroll_year 
     AND a.category_code = b.code
 GROUP BY 
-		a.year_from;
+	a.year_from;
 		
