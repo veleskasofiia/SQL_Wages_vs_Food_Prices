@@ -1,5 +1,3 @@
-SELECT * FROM t_Sofiia_Veleska_SQL_primary_final
-
 SELECT 
     a.industry_branch_code,
     a.payroll_year AS current_year,
