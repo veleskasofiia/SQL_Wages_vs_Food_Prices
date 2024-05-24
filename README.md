@@ -30,6 +30,10 @@ Abbreviation:
 - R	Kulturní, zábavní a rekreační činnosti
 - S	Ostatní činnosti
 
+
+- 111301 - Chléb konzumní kmínový
+- 114201 - Mléko polotučné pasterované
+  
 Explanations:
 
 First step was to understand which data from various sources I will need and created two tables. The first table "table_Sofiia_Veleska_SQL_primary_final" corresponds to the first four questions, while the second table, "table_Sofiia_Veleska_SQL_secondary_final", pertains to the fifth question.
